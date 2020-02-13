@@ -18,6 +18,10 @@ The two new sequences from Kalunguta, BTB30896 and BEN36706, also group in clust
 
 MAN9501, BEN36864, BEN36708, MAN9267, MAN9128, MAN9566, and MAN9512 cluster together in clade c35. Clade c35 also includes sequences from Mabalako, Kalunguta, and Mambasa, which supports transmission between these health zones. MAN9501, MAN9128, MAN9566, and MAN9512 all have identical genome sequences, indicating that they are directly or closely related cases. BEN36864 and MAN9267 each have one unique nucleotide mutation, which means they are still very likely to be closely or directly linked to other cases in this cluster. BEN36708 has three unique nucleotide mutations that separates it from these other sequences, which suggests that there were intermediary infections that were not sequenced.
 
+#[One Mandima case is most closely related to cases from Mambasa](https://nextstrain.org/community/blab/ebola-narrative-ms?clade=c40&d=tree)
+
+MAN8434 clusters in group c40, and is most closely related to cases from Mambasa. We recommend looking at this case's travel history to see whether these data support an exposure in Mambasa.
+
 #[Two Mandima cases group together in c41](https://nextstrain.org/community/blab/ebola-narrative-ms?clade=c26&f_health_zone=Mandima&d=tree)
 
 MAN8819 and MAN8386 have a shared mutation and group together in c41. While they are most closely related to each other, they are separated by 3 nucleotide mutations, and thus may not represent a direct transmission between two cases. Rather, there are likely unsequenced infections that occurred in between these two sequenced cases.
